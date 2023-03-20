@@ -1,1 +1,0 @@
-cp ./Source/Template.c ./Source/main.c 

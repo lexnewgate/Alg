@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "leetcode.h": "c",
-        "singlylist.h": "c"
-    },
-    "files.exclude": {
-        "**/*.out": true
-    }
-}
